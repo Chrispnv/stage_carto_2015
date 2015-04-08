@@ -1,5 +1,5 @@
-# stage_carto_2015
-AngularJS Sublime Text Package
+# Configuration de l'Autocomplete AngularJS dans Sublime Text 3
+* [Source](https://github.com/angular-ui/AngularJS-sublime-package/blob/master/README.md)
 ===
 
 Installation Options
