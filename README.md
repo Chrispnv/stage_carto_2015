@@ -1,4 +1,4 @@
-# Configuration de l'Autocomplete AngularJS dans Sublime Text 3
+# Configuration de l'Autocomplete AngularJS sur Sublime Text 3
 * [Source](https://github.com/angular-ui/AngularJS-sublime-package/blob/master/README.md)
 ===
 
