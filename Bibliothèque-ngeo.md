@@ -1,8 +1,8 @@
 Source:
 ---
 http://www.camptocamp.com/actualite/ngeo-une-bibliotheque-combinant-angularjs-et-openlayers-3/
-
-
+- [Voir le code source ngeo](https://github.com/camptocamp/ngeo)
+ 
 Avec ngeo, l’objectif de Camptocamp est de faciliter et rendre efficace le développement d’applications fondées sur AngularJS et OpenLayers 3. Nous développons une bibliothèque riche et flexible, adaptée à un maximum de cas d’utilisation.
 
 ngeo fournit un ensemble de « directives » et de « services » AngularJS. Notre objectif, dans un premier temps, n’est pas de fournir des composants haut niveau, « clé en main », mais de fournir une collection de composants élémentaires, pouvant être combinés ensemble de différentes manières, selon les besoins spécifiques de l’application.
