@@ -10,5 +10,5 @@
 
 5-[Créer une application web map avec OL3](http://suite.opengeo.org/4.1/webapps/ol3/intro.html)
 
-6-[]()
+6-[Création de templates OL3](http://suite.opengeo.org/4.1/webapps/ol3/templates.html#webapps-ol3-templates)
 
