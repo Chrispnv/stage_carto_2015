@@ -1,4 +1,4 @@
-[Source](http://www.camptocamp.com/actualite/ngeo-une-bibliotheque-combinant-angularjs-et-openlayers-3/)
+[Source](http://osgeo.asso.fr/aggregator/sources/5)
 ---
 - [Voir le code source ngeo](https://github.com/camptocamp/ngeo)
 - [Voir les exemples](http://camptocamp.github.io/ngeo/master/)
