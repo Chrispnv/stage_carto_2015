@@ -1,0 +1,1 @@
+-[AngularJS directive](https://github.com/tombatossals/angular-openlayers-directive)
