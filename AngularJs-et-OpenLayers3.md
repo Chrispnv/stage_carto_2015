@@ -5,7 +5,10 @@
 2-[ngeo](https://github.com/camptocamp/ngeo)
 
 3-[ngeo exemples](http://camptocamp.github.io/ngeo/master/)
-4-[]()
+
+4-[AngularJs directive exemples](http://tombatossals.github.io/angular-openlayers-directive/#/)
+
 5-[]()
+
 6-[]()
 
