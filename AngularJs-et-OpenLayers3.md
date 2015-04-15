@@ -8,7 +8,7 @@
 
 4-[AngularJs directive exemples](http://tombatossals.github.io/angular-openlayers-directive/#/)
 
-5-[]()
+5-[Créer une application web map avec OL3](http://suite.opengeo.org/4.1/webapps/ol3/intro.html)
 
 6-[]()
 
