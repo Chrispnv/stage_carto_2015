@@ -12,3 +12,4 @@
 
 6-[Création de templates OL3](http://suite.opengeo.org/4.1/webapps/ol3/templates.html#webapps-ol3-templates)
 
+7-[Leaflet Directive pour AngularJS](http://tombatossals.github.io/angular-leaflet-directive/#!/)
