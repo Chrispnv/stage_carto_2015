@@ -15,3 +15,5 @@
 7-[Leaflet Directive pour AngularJS](http://tombatossals.github.io/angular-leaflet-directive/#!/)
 
 8-[Harry Wood exemples](http://harrywood.co.uk/maps/examples/)
+
+9-[Azimuthis](https://github.com/mpriour/azimuthjs)
